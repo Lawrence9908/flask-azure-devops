@@ -1,6 +1,6 @@
 # Flask Azure DevOps CI/CD Example
 
-This is a simple Flask web application with CI/CD integration using Azure DevOps.
+This is a simple Flask web application with CI/CD integration using Azure DevOps.<br>
 [![CI/CD with Azure DevOps](https://github.com/Lawrence9908/flask-azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/Lawrence9908/flask-azure-devops/actions/workflows/main.yml)
 
 ## Getting Started
