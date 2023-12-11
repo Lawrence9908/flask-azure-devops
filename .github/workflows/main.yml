@@ -3,7 +3,7 @@ name: CI/CD with Azure DevOps
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
